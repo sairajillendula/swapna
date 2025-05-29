@@ -1,0 +1,2 @@
+print("Hi this is swapna")
+print("Age 25, SEX female")
